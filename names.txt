@@ -1,0 +1,15 @@
+ex2 - HTTP web client program to download a web page using TCP sockets
+ex3a - Applications of TCP Sockets – Echo Client and Echo Server
+ex3b - Applications of TCP Sockets – CHAT
+ex3c - Applications of TCP Sockets – FILE TRANSFER
+ex4 - Simulation of DNS using UDP Sockets
+ex5 - Simulation of ARP and RARP Protocols
+ex6a - Study of Network simulator (NS)
+ex6b - Simulation of Congestion Control Algorithms using NS
+ex7 - Study of TCP/UDP performance using Simulation tool
+ex8a - Simulation of Distance Vector Routing Algorithm
+ex8b - Simulation of Link State algorithm
+ex9 - Performance Evaluvation of routing protocols using Simulation tool
+ex10 - Simulation of Error Correction Code(CRC)
+ex11a - Simulate the performance of Go Back N protocol using NS2
+ex11b - Simulate the performance of Stop wait protocol using NS2
