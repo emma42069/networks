@@ -1,0 +1,42 @@
+DESCRIPTION:
+TCPDUMP - tcpdump is a common packet analyzer that runs under the command line. It allows the
+user to display TCP/IP and other packets being transmitted or received over a network to which the
+computer is attached.
+NETSTAT - In computing, netstat is a command-line network utility tool that displays network
+connections for the Transmission Control Protocol, routing tables, and a number of network interface
+and network protocol statistics.
+IFCONFIG – ifconfig is a system administration utility in Unix-like operating systems for network
+interface configuration. The utility is a command-line interface tool and is also used in the system
+startup scripts of many operating systems.
+NSLOOKUP - nslookup is a network administration command-line tool available in many computer
+operating systems for querying the Domain Name System to obtain domain name or IP address
+mapping, or other DNS records. The name "nslookup" means "name server lookup".
+PING - Ping is a computer network administration software utility used to test the reachability of a
+host on an Internet Protocol network.
+TRACEROUTE - Traceroute helps you analyze the path packets take on a network, along with any
+associated delays.
+COMMANDS:
+1.TCPDUMP
+$ which tcpdump
+$ tcpdump -i any
+$ tcpdump -i any -c 5
+$ tcpdump -i any -c5 -nn
+2.NETSTAT
+Listing all the LISTENING Ports of TCP and UDP connections
+# netstat -a | more
+netstat –at
+netstat –au
+# netstat –s
+3. IFCONFIG
+1. Show Network Devices and configuration and all network setting
+# ifconfig
+# ifconfig -a
+4. NSLOOKUP
+1. To find the IP address of a host, simply type the hostname:
+# nslookup google.com
+5.PING
+1. Ping the host to see if its alive
+$ ping google.com
+Send N packets and stop
+6.TRACE ROUTE
+$ traceroute google.com

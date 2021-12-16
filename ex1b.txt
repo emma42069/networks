@@ -1,0 +1,19 @@
+DESCRIPTION
+Wireshark is a software protocol analyzer, or "packet sniffer" application, used for network
+troubleshooting, analysis, software and protocol development, and education. t has a rich and
+powerful feature set and runs on most computing platforms including Windows, OS X, Linux, and
+UNIX. Network professionals, security experts, developers, and educators around the world use it
+regularly. It is freely available as open source, and is released under the GNU General Public License
+version 2.
+Steps:
+1. Open Wireshark application
+2. To start PDU capture, go to Capture on the Menu bar and select Options. The Capture
+Options dialog box provides a range of settings and filters which determines which and how
+much data traffic is captured.
+3. Ensure that Wireshark is set to monitor the correct interface.
+4. Click the Start button on the Wireshark: Capture Options window. This would show a
+Capture Information Dialog, and the Main Display Window would then be divided into
+different panes similar to the window
+5. When the Stop button is clicked, the capture process is terminated, and the main screen is
+displayed. This Main Display Window of Wireshark has three panes. a. Packet List pane
+b.Packet Details Pane c.Packet bytes pane
